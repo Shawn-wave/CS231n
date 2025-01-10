@@ -16,4 +16,4 @@ Course website: [CS231n: Convolutional Neural Networks for Visual Recognition](h
   - Notes and slides
   - Assignments and solutions
   
-All Spring 2017 materials with KOREAN are available in [this repository](https://github.com/visionNoob/CS231N_17_KOR_SUB)
+All Spring 2017 materials are available in [this repository](https://github.com/visionNoob/CS231N_17_KOR_SUB)
